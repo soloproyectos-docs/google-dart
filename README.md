@@ -39,5 +39,5 @@ Use [pub build](https://www.dartlang.org/tools/pub/cmd/pub-build.html) to deploy
 ```
 
 You can find more info about the `pub` command at:  
-[Pub Command](https://www.dartlang.org/tools/pub/get-started.html)
+[Pub Command](https://www.dartlang.org/tools/pub/get-started.html)  
 [Getting Started with pub](https://www.dartlang.org/tools/pub/cmd/)
