@@ -1,5 +1,7 @@
-# google-dart
+# Google Dart Language
 Google Dart Language, considerations an tutorial.
+
+Install [Dart SDK](https://www.dartlang.org/tools/sdk/)
 
 ## Install Dartium
 
