@@ -16,3 +16,8 @@ For example:
 // creates a basic web layout in the current directory
 > stagehand web-simple
 ```
+
+## Dart Editor
+
+[Atom](https://atom.io/) is a good and free editor. And it has support for the dart language:
+https://github.com/dart-atom/dartlang
