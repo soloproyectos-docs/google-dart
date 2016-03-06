@@ -21,3 +21,23 @@ For example:
 
 [Atom](https://atom.io/) is a good and free editor. And it has support for Dart:  
 https://github.com/dart-atom/dartlang
+
+## Getting Started
+
+You can use [stagehand](https://github.com/google/stagehand) and [pub get](https://www.dartlang.org/tools/pub/cmd/pub-get.html) to create a basic web layout and install dependencies:
+```bash
+# creates a simple web layout
+> stagehand web-simple
+# install dependences
+> pub get
+```
+
+Use [pub build](https://www.dartlang.org/tools/pub/cmd/pub-build.html) to deploy your application:
+```bash
+// the following command creates a build directory with necessary assets
+> pub build
+```
+
+You can find more info about the `pub` command at:  
+https://www.dartlang.org/tools/pub/get-started.html
+https://www.dartlang.org/tools/pub/cmd/
