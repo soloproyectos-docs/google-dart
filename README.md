@@ -19,5 +19,5 @@ For example:
 
 ## Dart Editor
 
-[Atom](https://atom.io/) is a good and free editor. And it has support for the dart language:
+[Atom](https://atom.io/) is a good and free editor. And it has support for Dart:  
 https://github.com/dart-atom/dartlang
