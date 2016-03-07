@@ -43,7 +43,7 @@ Use the [pub](https://pub.dartlang.org/) package manager to install dependences,
 # change to the project path
 > cd path/to/project
 
-# create a simple web project
+# create a simple web project in the current directory
 > stagehand web-simple
 ```
 
