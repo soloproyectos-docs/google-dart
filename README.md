@@ -31,12 +31,12 @@ https://www.dartlang.org/tools/
 Download and install Atom:  
 https://atom.io/
 
-Install dartlang plugin:  
+Install `dartlang` plugin:  
 https://github.com/dart-atom/dartlang
 
 ## Create, install, run and compile projects
 
-Use the [pub](https://pub.dartlang.org/) package manager to install dependences, compile and run a `dart` server.
+Use the [pub](https://pub.dartlang.org/) package manager to install dependences, compile and run Dart applications.
 
 **Crate a simple web project**
 ```bash
