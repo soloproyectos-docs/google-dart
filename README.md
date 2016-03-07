@@ -20,7 +20,8 @@ The following command prints all available layouts:
 
 **Install Dartium browser:**
 
-The Dartium browser is a hacked version of Chromium able to run Dart scripts natively:   https://www.dartlang.org/tools/dartium/
+The Dartium browser is a hacked version of Chromium able to run Dart natively:  
+https://www.dartlang.org/tools/dartium/
 
 **Install Atom editor**
 
