@@ -22,9 +22,12 @@ The following command list all available layouts:
 > stagehand
 ```
 
-### Install a Dart editor
+**Install Atom editor**
 
-[Atom](https://atom.io/) is a good and free editor. And it has support for Dart:  
+Download and install Atom:  
+https://atom.io/
+
+Install dartlang plugin:  
 https://github.com/dart-atom/dartlang
 
 ## Create, install, run and compile projects
