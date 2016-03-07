@@ -3,7 +3,10 @@ Google Dart Language, considerations an tutorial.
 
 Install [Dart SDK](https://www.dartlang.org/tools/sdk/)
 
-## Environment
+## Install environment (Dart SDK + Stagehand utility + Dartium browser + Good Editor)
+
+**Install Dart SDK on Linux:**
+https://www.dartlang.org/downloads/linux.html
 
 ### Install Dartium browser
 
@@ -24,15 +27,21 @@ For example:
 [Atom](https://atom.io/) is a good and free editor. And it has support for Dart:  
 https://github.com/dart-atom/dartlang
 
-## Install depencences, run and compile projects
+## Create, install, run and compile projects
 
-You can use the [pub](https://pub.dartlang.org/) package manager to install dependences, compile and run a `dart` server.
+Use the [pub](https://pub.dartlang.org/) package manager to install dependences, compile and run a `dart` server.
 
-**Install dependences**:
+**Crate a simple web project**
 ```bash
 # change to the project path
 > cd path/to/project
 
+# create a simple web project
+> stagehand web-simple
+```
+
+**Install dependences**:
+```bash
 # install (or get) dependences
 > pub get
 ```
