@@ -1,5 +1,7 @@
 # Google Dart Language
 
+This tutorial describes the necessary steps to develop Dart applications.
+
 ## Install environment (Dart SDK + Stagehand + Dartium + Atom)
 
 **Install Dart SDK on Linux:**  
@@ -7,16 +9,17 @@ https://www.dartlang.org/downloads/linux.html
 
 **Install Dartium browser:**
 
-Dartium is a version of the Chromium explorer able to execute natively dart code: [Dartium](https://www.dartlang.org/tools/dartium/)
+The Dartium browser is a hacked version of Chromium able to run Dart scripts natively:   https://www.dartlang.org/tools/dartium/
 
-### Install `stagehand` utility
+**Install `stagehand` utility:**  
 
-A script to create basic project layouts: [Stagehand](https://github.com/google/stagehand)
+Stagehand is a command line utility to create basic layouts:  
+https://github.com/google/stagehand
 
-For example:
+The following command list all available layouts:  
 ```bash
-// creates a basic web layout in the current directory
-> stagehand web-simple
+# list basic layouts
+> stagehand
 ```
 
 ### Install a Dart editor
