@@ -3,7 +3,7 @@ Google Dart Language, considerations an tutorial.
 
 Install [Dart SDK](https://www.dartlang.org/tools/sdk/)
 
-## Install environment (Dart SDK + Stagehand utility + Dartium browser + Good Editor)
+## Install environment (Dart SDK + Stagehand + Dartium + Atom Editor)
 
 **Install Dart SDK on Linux:**
 https://www.dartlang.org/downloads/linux.html
