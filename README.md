@@ -12,9 +12,9 @@ https://www.dartlang.org/downloads/linux.html
 Stagehand is a command line utility to create basic layouts:  
 https://github.com/google/stagehand
 
-The following command list all available layouts:  
+The following command prints all available layouts:  
 ```bash
-# list basic layouts
+# prints basic layouts
 > stagehand
 ```
 
