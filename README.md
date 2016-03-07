@@ -7,10 +7,6 @@ This tutorial describes the necessary steps to develop Dart applications.
 **Install Dart SDK on Linux:**  
 https://www.dartlang.org/downloads/linux.html
 
-**Install Dartium browser:**
-
-The Dartium browser is a hacked version of Chromium able to run Dart scripts natively:   https://www.dartlang.org/tools/dartium/
-
 **Install `stagehand` utility:**  
 
 Stagehand is a command line utility to create basic layouts:  
@@ -22,13 +18,22 @@ The following command list all available layouts:
 > stagehand
 ```
 
+**Install Dartium browser:**
+
+The Dartium browser is a hacked version of Chromium able to run Dart scripts natively:   https://www.dartlang.org/tools/dartium/
+
 **Install Atom editor**
+
+There are several IDEs to create Dart applications. But I'd recommend using Atom Editor, because it's nice and it's free.
 
 Download and install Atom:  
 https://atom.io/
 
 Install dartlang plugin:  
 https://github.com/dart-atom/dartlang
+
+However, you can use another editor:  
+https://www.dartlang.org/tools/
 
 ## Create, install, run and compile projects
 
