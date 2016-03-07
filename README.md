@@ -24,9 +24,11 @@ For example:
 [Atom](https://atom.io/) is a good and free editor. And it has support for Dart:  
 https://github.com/dart-atom/dartlang
 
-## Install depencences, run and compile projects using `pub` package manager
+## Install depencences, run and compile projects
 
-Install dependences:
+You can use the [pub](https://pub.dartlang.org/) package manager to install dependences, compile and run a `dart` server.
+
+**Install dependences**:
 ```bash
 # change to the project path
 > cd path/to/project
@@ -35,13 +37,13 @@ Install dependences:
 > pub get
 ```
 
-Run the project in the Dartium browser (localhost:8080):
+**Run the project in the Dartium browser (localhost:8080)**:
 ```bash
 # run dart server (open localhost:8080 in the Dartium browser)
 > pub serve
 ```
 
-Compile or build the project to be executed sucessfully in normal browser:
+**Compile or build the project to be executed sucessfully in normal browser**:
 ```bash
 # this creates the 'build' directory with necessary assets (JavaScript files, etc...)
 > pub build
