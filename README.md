@@ -1,7 +1,4 @@
 # Google Dart Language
-Google Dart Language, considerations an tutorial.
-
-Install [Dart SDK](https://www.dartlang.org/tools/sdk/)
 
 ## Install environment (Dart SDK + Stagehand + Dartium + Atom)
 
