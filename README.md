@@ -5,10 +5,10 @@ Install [Dart SDK](https://www.dartlang.org/tools/sdk/)
 
 ## Install environment (Dart SDK + Stagehand + Dartium + Atom)
 
-**Install Dart SDK on Linux:**
+**Install Dart SDK on Linux:**  
 https://www.dartlang.org/downloads/linux.html
 
-### Install Dartium browser
+**Install Dartium browser:**
 
 Dartium is a version of the Chromium explorer able to execute natively dart code: [Dartium](https://www.dartlang.org/tools/dartium/)
 
