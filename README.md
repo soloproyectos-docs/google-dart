@@ -61,6 +61,6 @@ Use the [pub](https://pub.dartlang.org/) package manager to install dependences,
 
 **Compile or build the project to be executed sucessfully in other browser**:
 ```bash
-# this creates the 'build' directory with necessary assets (JavaScript files, etc...)
+# this creates a 'build' directory with the necessary assets (JavaScript files, etc...)
 > pub build
 ```
