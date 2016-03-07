@@ -25,16 +25,14 @@ https://www.dartlang.org/tools/dartium/
 
 **Install Atom editor**
 
-There are several IDEs to create Dart applications. But I'd recommend using Atom Editor, because it's nice and it's free.
+There are several IDEs to create Dart applications. But I'd recommend using Atom Editor, because it's nice and it's free. However, you can use another editor: 
+https://www.dartlang.org/tools/
 
 Download and install Atom:  
 https://atom.io/
 
 Install dartlang plugin:  
 https://github.com/dart-atom/dartlang
-
-However, you can use another editor:  
-https://www.dartlang.org/tools/
 
 ## Create, install, run and compile projects
 
