@@ -3,11 +3,13 @@ Google Dart Language, considerations an tutorial.
 
 Install [Dart SDK](https://www.dartlang.org/tools/sdk/)
 
-## Install Dartium
+## Environment
+
+### Install Dartium browser
 
 Dartium is a version of the Chromium explorer able to execute natively dart code: [Dartium](https://www.dartlang.org/tools/dartium/)
 
-## Stagehand
+### Install `stagehand` utility
 
 A script to create basic project layouts: [Stagehand](https://github.com/google/stagehand)
 
@@ -17,27 +19,30 @@ For example:
 > stagehand web-simple
 ```
 
-## Dart Editor
+### Install a Dart editor
 
 [Atom](https://atom.io/) is a good and free editor. And it has support for Dart:  
 https://github.com/dart-atom/dartlang
 
-## Your first web application
+## Install depencences, run and compile projects using `pub` package manager
 
-You can use [stagehand](https://github.com/google/stagehand) and [pub get](https://www.dartlang.org/tools/pub/cmd/pub-get.html) to create a basic web layout and install dependencies:
+Install dependences:
 ```bash
-# creates a simple web layout
-> stagehand web-simple
-# install dependences
+# change to the project path
+> cd path/to/project
+
+# install (or get) dependences
 > pub get
 ```
 
-Use [pub build](https://www.dartlang.org/tools/pub/cmd/pub-build.html) to deploy your application:
+Run the project in the Dartium browser (localhost:8080):
 ```bash
-# the following command creates a build directory with necessary assets
-> pub build
+# run dart server (open localhost:8080 in the Dartium browser)
+> pub serve
 ```
 
-You can find more info about the `pub` command at:  
-[Pub Command](https://www.dartlang.org/tools/pub/get-started.html)  
-[Getting Started with pub](https://www.dartlang.org/tools/pub/cmd/)
+Compile or build the project to be executed sucessfully in normal browser:
+```bash
+# this creates the 'build' directory with necessary assets (JavaScript files, etc...)
+> pub build
+```
