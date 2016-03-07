@@ -1,6 +1,6 @@
 # Google Dart Language
 
-This tutorial describes the necessary steps to develop Dart applications.
+This tutorial describes the necessary steps to prepare your computer to develop Dart applications.
 
 ## Install environment (Dart SDK + Stagehand + Dartium + Atom)
 
