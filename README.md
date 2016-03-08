@@ -64,3 +64,11 @@ Use the [pub](https://pub.dartlang.org/) package manager to install dependences,
 # create a 'build' directory with the necessary assets (JavaScript files, etc...)
 > pub build
 ```
+
+## Notes
+
+If you want to run a Dart application in your mobile device, execute the following code:
+```bash
+# open http://<computer-ip>:8080 in any external device
+pub server --hostname=<computer-ip>
+```
