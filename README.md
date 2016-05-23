@@ -46,6 +46,8 @@ https://atom.io/
 Install `dartlang` plugin:  
 https://github.com/dart-atom/dartlang
 
+Go to the `dartlang` select and selects the "Format files on save" option. This option invokes the [dartfmt](https://github.com/dart-lang/dart_style) command when the files are saved.
+
 ## Create, install, run and compile projects
 
 Use the [pub](https://pub.dartlang.org/) package manager to install dependences, compile and run Dart applications.
