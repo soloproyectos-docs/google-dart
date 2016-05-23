@@ -46,7 +46,7 @@ https://atom.io/
 Install `dartlang` plugin:  
 https://github.com/dart-atom/dartlang
 
-Go to the `dartlang` select and selects the "Format files on save" option. This option invokes the [dartfmt](https://github.com/dart-lang/dart_style) command when the files are saved.
+Go to the `dartlang` settings and selects the "[Experimental] Format files on save" option. This option invokes the [dartfmt](https://github.com/dart-lang/dart_style) command when the files are saved.
 
 ## Create, install, run and compile projects
 
