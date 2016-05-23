@@ -18,6 +18,12 @@ Dart SDK is probably installed in `/usr/lib/dart`. Add the following line to the
 Stagehand is a command line utility to create basic layouts:  
 https://github.com/google/stagehand
 
+After installing `stagehand`, you may need to add the following line to your ~/.profile file:
+```bash
+# Pub bin directory
+> export PATH="$PATH":"~/.pub-cache/bin"
+```
+
 The following command prints all available layouts:  
 ```bash
 # prints basic layouts
