@@ -7,6 +7,12 @@ This tutorial describes the necessary steps to prepare your computer to develop 
 **Install Dart SDK on Linux:**  
 https://www.dartlang.org/downloads/linux.html
 
+Dart SDK is probably installed in `/usr/lib/dart`. Add the following line to the ~/.profile file:
+```bash
+# Dart SDK binaries directory
+> export PATH="$PATH:/usr/lib/dart/bin"
+```
+
 **Install `stagehand` utility:**  
 
 Stagehand is a command line utility to create basic layouts:  
