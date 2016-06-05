@@ -10,7 +10,7 @@ https://www.dartlang.org/downloads/linux.html
 Dart SDK is probably installed in `/usr/lib/dart`. Add the following line to the ~/.profile file:
 ```bash
 # Dart SDK binaries directory
-> export PATH="$PATH:/usr/lib/dart/bin"
+export PATH="$PATH:/usr/lib/dart/bin"
 ```
 
 **Install `stagehand` utility:**  
@@ -21,7 +21,7 @@ https://github.com/google/stagehand
 After installing `stagehand`, you may need to add the following line to your ~/.profile file:
 ```bash
 # Pub bin directory
-> export PATH="$PATH":"~/.pub-cache/bin"
+export PATH="$PATH":"~/.pub-cache/bin"
 ```
 
 The following command prints all available layouts:  
